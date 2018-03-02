@@ -1,0 +1,26 @@
+{
+  "sessions": [
+    {
+      "id": "33372d38-df63-43f0-8aef-5d568d575b72",
+      "tabLayout": {
+        "type": "stack",
+        "width": 100,
+        "height": 100,
+        "tabs": [
+          {
+            "id": "da00a69e-d282-4065-b9ee-71fb46b0a444",
+            "relativeUrl": "file://./src/tutorial13.ts",
+            "additionalData": null
+          }
+        ],
+        "subItems": [],
+        "activeItemIndex": 0
+      },
+      "lastUsed": 1520023024966,
+      "fileTreeExpanded": true,
+      "selectedTabId": "da00a69e-d282-4065-b9ee-71fb46b0a444",
+      "errorsExpanded": true
+    }
+  ],
+  "relativePathToTsconfig": "./tsconfig.json"
+}
