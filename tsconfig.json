@@ -4,24 +4,24 @@
     "module": "commonjs",
     // "moduleResolution": "node",
     // "jsx": "react",
-    // "experimentalDecorators": true,
+    "experimentalDecorators": true,
     // "emitDecoratorMetadata": true,
     // "declaration": true,
     "noImplicitAny": false,
-    // "suppressImplicitAnyIndexErrors": false,
+    "suppressImplicitAnyIndexErrors": true,
     // "strictNullChecks": false,
     "outDir": "lib",
-    "sourceMap":true
-    // "lib": [
-    //   "dom",
-    //   "es2017"
-    // ]
+    "sourceMap":true,
+    "lib": [
+      "dom",
+      "es2017"
+    ]
   },
-  // "compileOnSave": true,
+  "compileOnSave": true,
   "exclude": [
     "node_modules"
+  ],
+  "include": [
+    "src"
   ]
-  // "include": [
-  //   "src"
-  // ]
 }

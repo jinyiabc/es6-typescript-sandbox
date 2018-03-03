@@ -2,7 +2,7 @@
 let displayColors = function(message, ...colors){
 
      console.log(message);
-     console.log(colors);
+    //  console.log(colors);
      
      
     for(let i in colors){

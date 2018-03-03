@@ -4,4 +4,4 @@ var n1 = 10;
 
 //var n2 = n1 + 10;
 var n2 = n1 + "Hello";
-console.log(n2);
+console.log(n2);   // type inference is not always reliable!
